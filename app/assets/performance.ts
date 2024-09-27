@@ -251,6 +251,16 @@ const performanceList: any = [
   },
   {
     category: "공동주택",
+    name: "공덕 마포 펜트라우스",
+    address: "서울특별시 마포구 백범로 205",
+    units: "476세대",
+    scale: "지하 5층 ~ 지상 21층, 5개동",
+    year: "2011년",
+    contractor: "태영건설",
+    residential: true,
+  },
+  {
+    category: "공동주택",
     name: "일산 식사자이",
     address: "경기도 일산동구 식사도시개발구역 1,2,4BL",
     units: "4,683세대",
