@@ -495,6 +495,16 @@ const performanceList: any = [
     contractor: "㈜신세계건설",
     residential: false,
   },
+  {
+    category: "공동주택",
+    name: "공덕 푸르지오 펜트라우스",
+    address: "서울특별시 마포구 백범로 205",
+    units: "476실",
+    scale: "지하 5층 ~ 지상 21층, 5개동",
+    year: "2011년",
+    contractor: "태영건설, 대우건설, 현대건설",
+    residential: true,
+  },
 ];
 
 export default performanceList;
